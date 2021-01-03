@@ -1,0 +1,108 @@
+body{
+    background-color: #F2F2F2;
+}
+#conteiner{
+    display:table;
+    text-align: justify;
+    height: 90px;
+    font-size: 18px;
+    padding: 10px;
+    width: 100%;
+}
+#btn1{
+    float: left;
+    height: 100%;
+    width: 16%;
+}
+#btn2{
+    float: left;
+    height: 100%;
+    width: 16%;
+}
+#btn3{
+    float: left;
+    height: 100%;
+    width: 16%;
+}
+#btn4{
+    float: left;
+    height: 100%;
+    width: 16%;
+}
+#btn5{
+    float: left;
+    height: 100%;
+    width: 16%;
+}
+#btn6{
+    height: 100%;
+    float: left;
+    width: 20%;
+}
+#conteiner1{
+    width: 450px;
+    display: table;
+}
+#conteiner2{
+    width: 700px;
+    display: table;
+}
+#conttable{
+    width: 100%;
+    float: left;
+    padding: 5px;
+}
+label.dline{
+    height: 25px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.table{
+    border-collapse: collapse;
+    border: 3px solid black;
+    width: 100%;
+}
+.table td {
+    border: 2px solid lightgray;
+    padding: 10px;
+    width: 50%;
+}
+.table1{
+    border-collapse: collapse;
+    border: 3px solid black;
+    width: 100%;
+}
+.table1 td{
+    border: 2px solid lightgray;
+    padding: 10px;
+}
+input[type="text"]{
+    width: 210px;
+    height: 25px;
+}
+input.submit{
+    width: 95%;
+    height: 100%;
+    font-size: 100%;
+}
+
+div.editallsum{
+    width: 100%;
+    display: table;
+}
+div.editsum1{
+    width: 33%;
+    float: left;
+}
+div.editsum2{
+    width: 33%;
+    float: left;
+}
+div.editsum3{
+    width: 15%;
+    float: left;
+}
+div.editsum4{
+    width: 15%;
+    float: left;
+}

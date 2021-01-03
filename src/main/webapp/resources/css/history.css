@@ -1,0 +1,52 @@
+body{
+    background-color: #F2F2F2;
+}
+label.dline{
+    height: 25px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+#conttable{
+    width: 600px;
+}
+table.table {
+    border-collapse: collapse;
+    border: 3px solid black;
+    width: 100%;
+}
+td {
+    border: 2px solid lightgray;
+    padding: 5px;
+}
+
+#conteiner{
+    display:table;
+    width: 800px;
+    height: 40px;
+    padding: 3px;
+}
+#btn{
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+#btn1{
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+#btn2{
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+#btn3{
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+input.submit{
+    width: 99%;
+    height: 100%;
+    font-size: 15px;
+}
